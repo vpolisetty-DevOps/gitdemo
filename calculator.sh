@@ -5,7 +5,7 @@ b = 3
 
 c = a+b
 
-echo "print answer is" c 
+echo "print answer" 
 
 
 
